@@ -1,2 +1,2 @@
 # Netflix-movie-analysis
-Exploring Netflix movie data and performing exploratory data analysis
+Perform exploratory data analysis to understand more about movies from the 1990s decade.
